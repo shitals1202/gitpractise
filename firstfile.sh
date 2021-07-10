@@ -8,3 +8,8 @@ c=25
 d=15
 ((diff=c-d))
 echo "diff of $c and $d ans is $diff"
+
+m=25
+n=5
+((div=m/n))
+echo "div of $m and $n ans is $div"
